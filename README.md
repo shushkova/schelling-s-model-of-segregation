@@ -1,0 +1,1 @@
+# schelling-s-model-of-segregation
